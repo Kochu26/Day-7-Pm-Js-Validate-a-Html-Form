@@ -1,1 +1,1 @@
-$ pip3 install flask && python3 server.py
+To open a server wrote down : $ pip3 install flask && python3 server.py
